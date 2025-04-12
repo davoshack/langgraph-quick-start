@@ -1,0 +1,10 @@
+langgraph 
+langsmith 
+langchain_anthropic
+
+python-dotenv
+ipython
+pydantic
+setuptools
+
+git+https://github.com/davoshack/ai-custom-utils.git
